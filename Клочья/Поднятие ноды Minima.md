@@ -4,6 +4,7 @@
 - [Telegram](https://t.me/Minima_Global)
 - [Discord](https://discord.com/invite/minima)
 - [GitHub](https://github.com/minima-global)
+---
 
 ## Введение
 В этой статье мы поднимем ноду Minima (https://minima.global/https://minima.global/), которую можно запустить даже на смартфоне. А также примем участие в оплачиваемой программе Incentivecash Program (https://minima.global/incentivecash-program) и разберёмся, что мы можем ожидать от проекта.
