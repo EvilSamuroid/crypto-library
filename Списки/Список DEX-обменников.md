@@ -1,0 +1,7 @@
+- [quickswap](https://quickswap.exchange/#/swap)
+- [pankaceswap](https://pancakeswap.finance/swap#/swap)
+- [1inch](https://app.1inch.io/)
+- [biswap](https://biswap.org/)
+- [app.uniswap.org](https://app.uniswap.org) - основной обменник в сети ETH
+- [app.sushi.com](https://app.sushi.com) - второй обменник в сети ETH
+- [raydium.io/swap](https://raydium.io/swap) - основной обменник в сети SOL
