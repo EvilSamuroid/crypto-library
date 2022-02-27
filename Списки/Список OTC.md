@@ -4,6 +4,5 @@
 - [OTC Market](https://t.me/ico_diller_shop)
 - [VEVE Traders](https://t.me/vevetraders)
 - [Accounts & Social Media Market](https://t.me/mediasocialmarket)
-- [WTB_WTS by Crypton](https://t.me/BinanceNFTTrade)
 - [Наём работников by Ректовальщик](https://t.me/naem_rektovalshik)
 - [mediasocialmarket](https://t.me/mediasocialmarket)
