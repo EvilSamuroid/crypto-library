@@ -1,6 +1,7 @@
 # Абуз Coinlist
 - [оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
 - [Youtube видео](https://youtu.be/JPMaosjO18M)
+---
 
 ## Введение
 Я надеюсь, вы уже знаете о [Coinlist](https://coinlist.co/). А если даже и нет, то, сильно сократив, его можно описать всего тремя словами "платформа для сейлов".  

@@ -1,5 +1,4 @@
 # Как купить домен в сети Solana
-
 Что нужно сделать:
 - Переходим на [BonFiga](https://naming.bonfida.org/#/auctions) и выбираем нужный вам домен
 (Название вводите без sol — хотите cocacola.sol, вводите просто cocacola)

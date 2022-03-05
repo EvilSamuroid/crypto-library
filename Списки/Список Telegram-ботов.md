@@ -21,6 +21,11 @@
 
 Notification bot for ALL coins and DeFi projects. Receive notifications of price movements and liquidity pool change
 
+## Crypton_research
+- [link](https://t.me/crypton_research_bot)
+
+Новостной бот от криптон академии.
+
 ## OTCGod_bot
 - link
 
