@@ -1,5 +1,6 @@
 # Разбор проекта Hacken Foundation
-- [Оригинальный пост](https://t.me/idoresearch/63)
+-> [Оригинальный пост](https://t.me/idoresearch/63)
+
 ---
 
 ## Ссылки

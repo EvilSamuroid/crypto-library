@@ -1,5 +1,6 @@
 # Play to Earn
-- [Оригинальная статья](https://teletype.in/@greezblog/play-to-earn_3.6).
+-> [Оригинальная статья](https://teletype.in/@greezblog/play-to-earn_3.6)
+
 ---
 
 Очень интересный и, на самом деле, перспективный способ для заработка.  

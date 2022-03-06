@@ -1,7 +1,22 @@
 # Список Telegram-каналов
-![](_attachments/a94b007f02c18aeb65182a1746909561.png)
 Стоит подписаться вообще на все каналы и начать читать все под ряд, ведь только вы знаете, какой контент вам нужен.
 
+## Прога
+![](_attachments/6a0877b3735da204fad937aeee20ed8a.png)
+- https://t.me/zx_crypto
+- https://t.me/ak74lab
+- https://t.me/n4z4v0d
+- https://t.me/devsofcrypto
+- https://t.me/terncrypto
+- https://t.me/cyberacademy
+- https://twitter.com/eslampy
+- https://t.me/nifoleko_mclaren
+- https://t.me/cryptoitachik
+
+
+
+## Крипта
+![](_attachments/a94b007f02c18aeb65182a1746909561.png)
 - [TradeParty](https://t.me/tradeparty1337)
 - [Nifoleko](https://t.me/nifoleko_mclaren)
 - [ТВС](https://t.me/tvsteeam)

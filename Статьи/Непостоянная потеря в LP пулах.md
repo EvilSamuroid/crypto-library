@@ -1,5 +1,6 @@
 # Что такое непостоянная потеря в LP пулах и как с ней бороться?
-- [Оригинальная статья](https://telegra.ph/CHto-takoe-nepostoyannaya-poterya-v-LP-pulah-02-06)
+-> [Оригинальная статья](https://telegra.ph/CHto-takoe-nepostoyannaya-poterya-v-LP-pulah-02-06)
+
 ---
 
 ## Введение

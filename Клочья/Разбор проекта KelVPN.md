@@ -1,5 +1,6 @@
 # Разбор проекта KelVPN
-- [Оригинальный пост](https://t.me/idoresearch/24)
+-> [Оригинальный пост](https://t.me/idoresearch/24)
+
 ---
 
 ## Введение

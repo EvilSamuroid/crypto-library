@@ -1,7 +1,8 @@
 # Абуз Gleam-форм
-- [Оригинальная статья](https://teletype.in/@dim1562/abusgleam.io)
-- [Оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
-- [Youtube видео](https://youtu.be/tTcqsLUz7JM)
+-> [Оригинальная статья](https://teletype.in/@dim1562/abusgleam.io)
+-> [Оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
+-> [Youtube видео](https://youtu.be/tTcqsLUz7JM)
+
 ---
 
 ## Введение

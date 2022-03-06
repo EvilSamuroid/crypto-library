@@ -1,7 +1,8 @@
 # Как ловить неуловимые дропы c AtomicHub через atomicdropsx
-  - [Статья с картинками](http://vk.com/@cheapchill-lovim-paki-bez-kapchi) 
-  - [Видео](https://youtu.be/hIxZXdsB_Ic)
-  - Это оригинальная статья
+Это оригинальная статья
+-> [Статья с картинками](http://vk.com/@cheapchill-lovim-paki-bez-kapchi) 
+-> [Видео](https://youtu.be/hIxZXdsB_Ic)
+
 ---
   
 ## Проверяем, есть ли на дропе капча
