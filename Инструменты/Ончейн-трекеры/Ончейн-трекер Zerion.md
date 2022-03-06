@@ -1,4 +1,4 @@
-- [link](http://zerion.io/)
+-> [link](http://zerion.io/)
 
 Сети: Polygon, BSC, ETH
 Трекает NFT: Да (ETH)

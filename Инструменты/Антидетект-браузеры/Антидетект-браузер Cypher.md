@@ -1,9 +1,9 @@
-- [link](https://cypher-antibrowser.net/index)
+-> [link](https://cypher-antibrowser.net/index)
 
 Непопулярный антидетект который меняет отпечатки прямо через исходный код, а не через JS. Он сделан вполне неплохо и работает даже на линуксе, но нужно долго во всем разбираться и самому все настраивать. Если это интересно, ниже ссылки на русский чат и гайды от самих разработчиков:
 
-[Беседа](https://t.me/cypher_browser)
-[Инструкция по установке](https://telegra.ph/Cypher-Antibrowser--Instrukciya-i-FAQ-07-24)  
-[Инструкция по настройке](https://telegra.ph/Kak-rabotat-s-Cypher-Antibrowser-10-01)
+-> [Беседа](https://t.me/cypher_browser)
+-> [Инструкция по установке](https://telegra.ph/Cypher-Antibrowser--Instrukciya-i-FAQ-07-24)  
+-> [Инструкция по настройке](https://telegra.ph/Kak-rabotat-s-Cypher-Antibrowser-10-01)
 
 Прайс: 50$ + есть бесплатный доступ.

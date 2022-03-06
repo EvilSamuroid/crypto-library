@@ -1,4 +1,4 @@
-- [link](https://step.finance/)
+-> [link](https://step.finance/)
 
 Сети: SOL
 Трекает NFT: Да

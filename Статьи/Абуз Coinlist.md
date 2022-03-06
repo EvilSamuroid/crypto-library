@@ -1,6 +1,6 @@
 # Абуз Coinlist
-- [оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
-- [Youtube видео](https://youtu.be/JPMaosjO18M)
+- [Оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12).
+- [Youtube видео](https://youtu.be/JPMaosjO18M).
 ---
 
 ## Введение

@@ -1,4 +1,4 @@
-- [link](https://coinstats.app)
+-> [link](https://coinstats.app)
 
 Сети: BSC, ETH, Polygon
 Трекает NFT: Нет

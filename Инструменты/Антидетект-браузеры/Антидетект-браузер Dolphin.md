@@ -1,3 +1,3 @@
-- [link](https://anty.dolphin.ru.com/)
+-> [link](https://anty.dolphin.ru.com/)
 
 160$ за 300 профилей, бесплатный доступ на 10 профилей.

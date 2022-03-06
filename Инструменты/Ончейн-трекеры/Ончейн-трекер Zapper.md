@@ -1,4 +1,4 @@
-- [link](https://zapper.fi/)
+-> [link](https://zapper.fi/)
 
 Сети: BSC, AVAX, ARBI, Optimism, Celo, ETH, FTM, Harmony, Polygon
 Трекает NFT?: Да (ETH)

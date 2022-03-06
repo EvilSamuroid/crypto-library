@@ -1,5 +1,5 @@
-- [Indigo](https://indigobrowser.com/)
-- [Incogniton](https://incogniton.com/)
+-> [Indigo](https://indigobrowser.com/)
+-> [Incogniton](https://incogniton.com/)
 
 Эти 2 антидетекта я выделил вместе, так как Incogniton очень похож на Indigo, а Indigo в свою очередь сделан на базе MultiLogin, и по факту они отличаются только ценой и мелкими фишками (инкогнитон более дешевый + есть 10 бесплатных профилей)
 

@@ -1,6 +1,6 @@
 # Абуз Sweepwidget
-- [оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
-- [Youtube видео](https://youtu.be/WS9-_p9A6Xs)
+- [Оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12).
+- [Youtube видео](https://youtu.be/WS9-_p9A6Xs).
 ---
 
 Я бы отнёс данный вид форм к Medium уровню, так как хоть там не требуется привязка каких-либо социцальных сетей, но у них стоит очень непонятная и жёсткая антимультиаккерская система.

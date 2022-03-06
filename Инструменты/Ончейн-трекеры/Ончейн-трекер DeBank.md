@@ -1,4 +1,4 @@
-- [link](https://debank.com/)
+-> [link](https://debank.com/)
 
 Сети: ETH, BSC, xDAI, Polygon, Celo, Moonriver, AVAX, FTM, ARBI, HECO, Boba, Cronos, OEC, Optimism
 Трекает NFT: Да (ETH)

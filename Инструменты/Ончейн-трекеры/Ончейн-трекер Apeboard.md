@@ -1,4 +1,4 @@
-- [link](https://apeboard.finance/dashboard)
+-> [link](https://apeboard.finance/dashboard)
 
 Сети: ETH, BSC, SOL, Terra, Polygon, Ronin, AVAX, FTM, ARBI, COSMOS, Harmony, Boba, Cronos
 Трекает NFT: Да (ETH, Terra)

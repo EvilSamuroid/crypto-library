@@ -1,6 +1,6 @@
 # Абуз Viralsweep
-- [оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12)
-- [Youtube видео](https://youtu.be/VQ7jIlRuBt4)
+- [Оригинальная статья @rektovalshik](https://telegra.ph/Metodichka-po-multiakkingu-11-12).
+- [Youtube видео](https://youtu.be/VQ7jIlRuBt4).
 ---
 
 Данный вид форм я отношу к Easy уровню, так как можно делать тысячи аккаунтов с одного айпи, а также хоть там и присутствует проверка подписок в Twitter, но всё равно один Twitter аккаунт можно использовать для тысячи форм Viralsweep.

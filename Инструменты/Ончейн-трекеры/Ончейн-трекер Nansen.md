@@ -1,4 +1,4 @@
-- [link](https://www.nansen.ai)
+-> [link](https://www.nansen.ai)
 
 сети: ETH, Polygon, Fantom, Celo, Avalanche
 
@@ -26,4 +26,5 @@ e. Hot Contracts.
 Все борды, фильтры, выгрузка в CSV и 100 уведомлений.
 - Alpha. $30k в год. 
 Всё из Випки + всякая приватная мишура и ресерчи. 
-[Подробнее о ценах и наполнении](https://www.nansen.ai/plans)
+
+-> [Подробнее о ценах и наполнении](https://www.nansen.ai/plans)

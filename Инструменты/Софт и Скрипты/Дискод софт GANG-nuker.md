@@ -1,1 +1,1 @@
-- [github](https://github.com/TT-Tutorials/GANG-Nuker)
+-> [github](https://github.com/TT-Tutorials/GANG-Nuker)
