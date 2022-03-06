@@ -1,6 +1,6 @@
 # Создание кошелька WAX на Anchor
-- [Видео](https://www.youtube.com/watch?v=fOrnipgcoOU).
-- [Оригинальная статья с картинками](https://telegra.ph/Kak-sozdat-koshelyok-Anchor-bez-telefona-05-19).
+- [Видео](https://www.youtube.com/watch?v=fOrnipgcoOU)
+- [Оригинальная статья с картинками](https://telegra.ph/Kak-sozdat-koshelyok-Anchor-bez-telefona-05-19)
 ---
 
 Для создания требуется уже существующий WAX аккаунт и 0.4 WAX.

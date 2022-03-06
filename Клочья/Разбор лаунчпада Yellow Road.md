@@ -1,6 +1,6 @@
 # Разбор лаунчпада Yellow Road
-- [оригинальный пост I](https://t.me/idoresearch/192)
-- [оригинальный пост II](https://t.me/idoresearch/193)
+- [Оригинальный пост I](https://t.me/idoresearch/192)
+- [Оригинальный пост II](https://t.me/idoresearch/193)
 ---
 
 ## Про лаунчпад

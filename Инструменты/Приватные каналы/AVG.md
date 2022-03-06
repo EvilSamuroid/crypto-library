@@ -1,6 +1,6 @@
 # Auto Venture Group
 Стоимость: $2000/навсегда.
--> https://t.me/mrAutoTrade
+-> [@mrAutoTrade](https://t.me/mrAutoTrade)
 
 ## Тело
 Чем же мы занимаемаются в Private AutoVenture Group?

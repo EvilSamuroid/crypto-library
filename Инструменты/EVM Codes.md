@@ -1,6 +1,6 @@
 # EVM Codes: Плейграунд для прогеров
 В код на Ethereum Virtual Machine (EVM) не можешь?
-Evm.codes (https://www.evm.codes/playground) поможет!
+[Evm.codes](https://www.evm.codes/playground) поможет!
 
 Что это:
 1. Таблица операционных кодов и пояснений к ним.
@@ -8,5 +8,4 @@ Evm.codes (https://www.evm.codes/playground) поможет!
 Наглядно показывает зависимость количества газа и использованных операций в смарт-контракте.
 Для экспериментов можно выбрать дохардфоркные времена без Londonо'в/Constatinople'й.
 
-У чудо-инструмента [открытый код](https://github.com/comitylabs/evm.codes).
-И своя [история создания](https://tairasim.com/evm-codes/).
+У чудо-инструмента [открытый код](https://github.com/comitylabs/evm.codes) и своя [история создания](https://tairasim.com/evm-codes/).

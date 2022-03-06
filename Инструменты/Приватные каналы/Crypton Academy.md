@@ -1,5 +1,5 @@
 # Crypton Academy
-- [канал автора оригинала](https://t.me/greezblog)
+- [Канал автора оригинала](https://t.me/greezblog)
 ---
 Стоимость: $40/мес.
 -> [CryptonLobbyBot](https://t.me/CryptonLobbyBot)

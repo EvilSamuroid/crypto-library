@@ -1,12 +1,14 @@
 # Установка ноды Minima
+- Ссылка на оригинал отсутствует
+---
+
+## Введение
 - [Website](https://minima.global/) 
 - [Twitter](https://twitter.com/Minima_Global)
 - [Telegram](https://t.me/Minima_Global)
 - [Discord](https://discord.com/invite/minima)
 - [GitHub](https://github.com/minima-global)
----
 
-## Введение
 В этой статье мы поднимем ноду Minima (https://minima.global/https://minima.global/), которую можно запустить даже на смартфоне. А также примем участие в оплачиваемой программе Incentivecash Program (https://minima.global/incentivecash-program) и разберёмся, что мы можем ожидать от проекта.
 
 **Minima** —  это безопасный, масштабируемый и децентрализованный блокчейн, состоящий из [двух уровней](https://cdn.minima.global/media/2021/07/02/Protocol_Layers_.pdf): Minima и Maxima. Децентрализация блокчейна будет обеспечиваться нодами, количество которых команда планирует довести до одного миллиона. Мы будем поднимать ноду уровня Minima, уровень Maxima находится в разработке, возможность запуска узлов в нём станет доступна позже. 
