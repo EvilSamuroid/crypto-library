@@ -1,4 +1,4 @@
-- [link](https://cointool.app/dashboard)
+-> [link](https://cointool.app/dashboard)
 
 CoinTool позволяет автоматически создавать множесто кошельков в различных сетях - пользователю остается лишь импортировать их.
 

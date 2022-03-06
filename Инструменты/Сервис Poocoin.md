@@ -1,4 +1,4 @@
-- [link](https://poocoin.app/)
+-> [link](https://poocoin.app/)
 
 Работает в сетях: BSC, Polygon 
 ![](_attachments/824e98142af74e3b0a846079e4456773.png)

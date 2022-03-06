@@ -2,10 +2,11 @@
 - [Оригинальный пост](https://t.me/idoresearch/63)
 ---
 
-Разбор проекта [Hacken Foundation](https://hackenfoundation.com/).
-- [Русская группа проекта - Hacken Foundation (HAI) Russian Official](https://t.me/joinchat/JI5Y49KPGkw0MDYy)
-- [Официальный сайт](https://hackenfoundation.com/)
+## Ссылки
+->  [Русская группа проекта - Hacken Foundation (HAI) Russian Official](https://t.me/joinchat/JI5Y49KPGkw0MDYy)
+->  [Официальный сайт](https://hackenfoundation.com/)
 
+## Разбор проекта
 Итак, что имеем. 
 Проект Hacken Foundation. Они же Hacken Club. Весь проект направлен на кибербезопасность. Аудит проектов, защита от ддос атак, защита бирж от взломов, сбор аналитики и куча всего полезного. Главный токен экосистемы - токен [HAI](https://www.coingecko.com/ru/%D0%9A%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B/hackenai).
 

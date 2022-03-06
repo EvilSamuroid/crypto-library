@@ -20,10 +20,9 @@
 Очень удобно, что мы можем импортировать наши профили и экспортировать их в любой момент для работы на другом компьютере.
 
 ## Установка SWITCH
-- Регистрируемся на [официальном сайте разработчика mybot.su](http://mybot.su/register.php):
-![](_attachments/fc5670ddbd9af6536f0f206515745ea7.png)
-- [Скачиваем SWITCH с официального сайта](http://mybot.su/switch).
-- Устанавливаем на компьютер и логинимся.
+1. Регистрируемся на [официальном сайте разработчика mybot.su](http://mybot.su/register.php).
+2. [Скачиваем SWITCH](http://mybot.su/switch).
+3. Устанавливаем на компьютер и логинимся.
 
 Программа распространается бесплатно и имеет закрытый код, а я не могу ручаться за ее безопасность. Берегите свои данные!
 
@@ -39,6 +38,7 @@
 
 ### Закладки
 Закрепляем нужные закладки:
+    - [Near Wallet](https://wallet.near.org/)
     - [Chainlist](https://chainlist.org/)
 	- [Discord](https://discord.com/channels/@me)
 	- [Twitter](https://twitter.com/home)
@@ -53,41 +53,25 @@
 ![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
     - [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
     - [Phantom wallet](https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa)
+	- [Polkadot.js](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
     - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) (темная тема)
     - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (блокировка рекламы)
     - [DuckDuckGo](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
     - [Google Переводчик](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-	
-#### Антикапча
-Антикапча поможет нам каждый раз не решать сотню капч вручную при открытии сотни профилей:
-    - В первую очередь [регистрируемся на сайте](https://anti-captcha.com/clients/entrance/login) и вносим средства для оплаты решения капч.
-	- Скачиваем [ZIP-расширение с официального сайта](https://antcpt.com/rus/download/google-chrome-options/manual-zip.html):
-	![](_attachments/77da0ffa6095108b09f82265c0ac8a6e.png)
-	- Распаковываем архив в папку:
-	![](_attachments/64acfdafa5537196a3881ff94bd57e35.png)
-	- Переходим в управление расширениями:
-	![](_attachments/d903da8aae232c7dcb2fc6b375081047.png)
-	- Включаем режим разработчика и загружаем распакованное расширение:
-	![](_attachments/5a493da3d4c292e68979f5b48e20dd3e.png)
-	- Переходим в [аккаунт AntiCaptcha -> settings -> API setup](https://anti-captcha.com/clients/settings/apisetup) и копируем API-ключ:
-    ![](_attachments/9766339935934ae405f42a65af8efbc7.png)
-	- Переходим в настройки расширения AntiCaptcha и вставляем в полу скопированный ключ, нажимаем сохранить:
-	![](_attachments/8fe0eb09ef9142e676ec6d9449649309.png)
-
+	- [Антикапча](https://anti-captcha.com/clients/settings/apisetup) -> [Установка расширения](../Инструменты/Расширение%20для%20браузера%20AntiCaptcha.md)
+	- VPN
 
 ## Создание фермы
-- Остается только клонировать профиль-заготовку, задать ему номер, зайти в него и войти в нужные аккаунты и кошельки:
+Остается только клонировать профиль-заготовку, задать ему номер, зайти в него и войти в нужные аккаунты и кошельки:
 ![](_attachments/a1b273da7c047ae64f3cb5e3ff1e0b18.png)
 
-- Заранее добавляем в метамаск нужные сети с помощью [chainlist](https://chainlist.org/):
-    - Polygon
-    - Binance Smart Chain
+Заранее добавляем в метамаск нужные сети с помощью [chainlist](https://chainlist.org/):
+- Polygon
+- Binance Smart Chain
 
-![](_attachments/774275c01f97da13e18c4f2c48c0d5a1.png)
-
-- Заранее добавляем в метамаск нужные токены с помощью [coinmarketcap](https://coinmarketcap.com/):
-    - [busd](https://coinmarketcap.com/currencies/binance-usd/)
-    - [usdt](https://coinmarketcap.com/currencies/tether/)
-    - [usdc](https://coinmarketcap.com/currencies/usd-coin/)
+Заранее добавляем в метамаск нужные токены с помощью [coinmarketcap](https://coinmarketcap.com/):
+- [busd](https://coinmarketcap.com/currencies/binance-usd/)
+- [usdt](https://coinmarketcap.com/currencies/tether/)
+- [usdc](https://coinmarketcap.com/currencies/usd-coin/)
 
 ![](_attachments/6e85f173051c8905b0afbd8b72f4d5c7.png)
