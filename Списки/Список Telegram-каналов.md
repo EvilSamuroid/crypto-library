@@ -104,8 +104,8 @@
 - [thedailyape](https://t.me/thedailyape) (ENG)
 - [defiprime](https://t.me/defiprime) (ENG)
 - [unfolded](https://t.me/unfolded) (ENG)
-- [glassnode](https://t.me/glassnode) (ENG)
-
+- [glassnode](https://t.me/glassnode) (ENG
+- [M6bullets](https://t.me/M6bullets)
 
 # Closed chats
 - [Crypton Academy](../Инструменты/Приватные%20каналы/Crypton%20Academy.md)

@@ -39,28 +39,30 @@
 
 ### Закладки
 Закрепляем нужные закладки:
-    - [Near Wallet](https://wallet.near.org/)
-    - [Chainlist](https://chainlist.org/)
-	- [Discord](https://discord.com/channels/@me)
-	- [Twitter](https://twitter.com/home)
-	- [Почта Маил](https://account.mail.ru/login)
-	- [Почта Рамблер](https://mail.rambler.ru/)
+- [Near Wallet](https://wallet.near.org/)
+- [Chainlist](https://chainlist.org/)
+- [Discord](https://discord.com/channels/@me)
+- [Twitter](https://twitter.com/home)
+- [Почта Маил](https://account.mail.ru/login)
+- [Почта Рамблер](https://mail.rambler.ru/)
 
 ![](_attachments/4ef1c32cae3db5285580c13d09b25113.png)
 
 
 ### Расширения
 Устанавливаем нужные расширения:
-![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
-    - [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-    - [Phantom wallet](https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa)
+ - [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+ - [Phantom wallet](https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa)
 	- [Polkadot.js](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd)
-    - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) (темная тема)
-    - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (блокировка рекламы)
-    - [DuckDuckGo](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-    - [Google Переводчик](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-	- [Антикапча](https://anti-captcha.com/clients/settings/apisetup) -> [Установка расширения](../Инструменты/Расширение%20для%20браузера%20AntiCaptcha.md)
-	- VPN
+ - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) (темная тема)
+ - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (блокировка рекламы)
+ - [DuckDuckGo](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
+ - [Google Переводчик](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [Антикапча](https://anti-captcha.com/clients/settings/apisetup) 
+-> [Гайда по установки расширения](../Инструменты/Расширение%20для%20браузера%20AntiCaptcha.md)
+- VPN
+
+![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
 
 ## Создание фермы
 Остается только клонировать профиль-заготовку, задать ему номер, зайти в него и войти в нужные аккаунты и кошельки:
