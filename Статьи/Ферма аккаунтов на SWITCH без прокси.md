@@ -24,10 +24,10 @@
 Регистрация, установка и настройка данного антидетект браузера не займет много времени.
 
 
-## Недостатки и баги SWITCH
-По каким-то причинам у меня не работает почта mail.ru.
 
-Также постоянно вылетают рандомные ошибки при закрытии профилей, что, к счастью, никак не влияет на работу.
+## Недостатки и баги SWITCH
+Постоянно вылетают рандомные ошибки при закрытии профилей, что, к счастью, никак не влияет на работу.
+
 
 
 ### Регистрация и установка
@@ -44,6 +44,8 @@
 
 Переходим в настройки программы и указываем новый путь сохранения профилей:
 ![](_attachments/Pasted%20image%2020220307212214.png)
+
+К сожалению, по каким-то причинам профили-клоны все равно сохраняются по стандартному пути `C:\Users\Username\AppData\Local\Temp` даже после изменения настроек.
 
 ## Настройка профиля-заготовки
 Нам нужно сделать эталонный профиль, который мы далее будем клонировать и заполнять данными фермы.
@@ -64,17 +66,9 @@
 - [Chainlist](https://chainlist.org/)
 - [Discord](https://discord.com/channels/@me)
 - [Twitter](https://twitter.com/home)
-- [Почта Маил](https://account.mail.ru/login)
 - [Почта Рамблер](https://mail.rambler.ru/)
 
 ![](_attachments/177765dc6296279a46cb6cf5fc41a02b.png)
-
-### Стартовые вкладки
-Можно указать имя пользователя профиля, совпадающее с названием профиля в списке профилей антидетект-браузера:
-![](_attachments/7709a3dd061cb9a5ef2469710bcf8d25.png)
-
-Из заранее открытых вкладок можно открыть вкладку настроек профиля, чтобы при запуске нового профиля можно было сразу задать ему желаемое имя:
-![](_attachments/78c2207c7dd06f8048808e17430a9cd1.png)
 
 ### Расширения
 Устанавливаем нужные расширения:
@@ -91,20 +85,26 @@
 
 ![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
 
+### Стартовые вкладки
+1. Настройки профиля, чтобы в первую очередь указать желаемое имя пользователя:
+![](_attachments/78c2207c7dd06f8048808e17430a9cd1.png)
+Лучше всего указывать имя пользователя, совпадающее с именем профиля в списке профилей антидетект-браузера:
+![](_attachments/7709a3dd061cb9a5ef2469710bcf8d25.png)
+
+2. Используемая для входа в Discord почта ([Rambler](https://mail.rambler.ru/)).
+3. [Discord](https://discord.com/login).
+4. [Twitter](https://twitter.com/).
+5. Меню импорта мнемонической фразы в Metamask:
+![](_attachments/Pasted%20image%2020220308155939.png)
+
+5. [Chainlist](https://chainlist.org/), чтобы сразу добавить желаемые сети (Polygon, Binance Smart Chain) в Metamask.
+6. Вкладки [Coinmarketcap](https://coinmarketcap.com/) с частоиспользуемыми токенами ([busd](https://coinmarketcap.com/currencies/binance-usd/), [usdt](https://coinmarketcap.com/currencies/tether/), [usdc](https://coinmarketcap.com/currencies/usd-coin/)), чтобы заранее импортировать их в Metamask:
+![](_attachments/6e85f173051c8905b0afbd8b72f4d5c7.png)
+7. Меню импорта мнемонической фразы в Phantom Wallet.
+8. Меню импорта мнемонической фразы в [Near Wallet](https://wallet.near.org/recover-seed-phrase).
+
 
 
 ## Создание фермы
 Остается только клонировать профиль-заготовку, задать ему номер, зайти в него и войти в нужные аккаунты и кошельки:
 ![](_attachments/a1b273da7c047ae64f3cb5e3ff1e0b18.png)
-
-### Настройка метамаска
-Заранее добавляем в метамаск нужные сети с помощью [chainlist](https://chainlist.org/):
-- Polygon
-- Binance Smart Chain
-
-Заранее добавляем в метамаск нужные токены с помощью [coinmarketcap](https://coinmarketcap.com/):
-- [busd](https://coinmarketcap.com/currencies/binance-usd/)
-- [usdt](https://coinmarketcap.com/currencies/tether/)
-- [usdc](https://coinmarketcap.com/currencies/usd-coin/)
-
-![](_attachments/6e85f173051c8905b0afbd8b72f4d5c7.png)
