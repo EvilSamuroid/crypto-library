@@ -43,7 +43,7 @@
 К тому же мы хотим знать, где храняться наши профили, чтобы за ними было проще следить.
 
 Переходим в настройки программы и указываем новый путь сохранения профилей:
-![](_attachments/Pasted%20image%2020220307212214.png)
+![](_attachments/be7053cee9ab692914c7cf5c7cbd7a8b.png)
 
 К сожалению, по каким-то причинам профили-клоны все равно сохраняются по стандартному пути `C:\Users\Username\AppData\Local\Temp` даже после изменения настроек.
 
@@ -56,21 +56,30 @@
 
 ### Настройки браузера
 Переходим в [Настройки браузера -> Внешний вид -> Запуск Chrome](chrome://settings/appearance) и выбираем пункт Ранее открытые вкладки:
-![](_attachments/Pasted%20image%2020220307211416.png)
+![](_attachments/7802daca8a059c5cefed69f4cca29737.png)
 
 Также можно [поставить темную тему браузера](https://chrome.google.com/webstore/category/themes).
 
 ### Закладки
+![](_attachments/73eb6502b141ecc46d6df8982fdaf71c.png)
 Закрепляем нужные закладки:
 - [Near Wallet](https://wallet.near.org/)
 - [Chainlist](https://chainlist.org/)
-- [Discord](https://discord.com/channels/@me)
 - [Twitter](https://twitter.com/home)
-- [Почта Рамблер](https://mail.rambler.ru/)
-
-![](_attachments/177765dc6296279a46cb6cf5fc41a02b.png)
+- [Discord](https://discord.com/channels/@me)
+- Почта ([Рамблер](https://mail.rambler.ru/), [Gmail](https://mail.google.com/mail/u/0/#inbox))
+- [WAX Wallet](https://wallet.wax.io/dashboard)
+- [AtomicHub](https://wax.atomichub.io/trading)
+- [PancaceSwap](https://pancakeswap.finance/swap)
+- [QuickSwap](https://quickswap.exchange/#/swap)
+- [OpenSea](https://opensea.io/account)
+- [ApeBoard](https://apeboard.finance/dashboard)
+- [PooCoin](https://poocoin.app/)
+- Вкладки [CoinMarketCap](https://coinmarketcap.com/) с частоиспользуемыми токенами ([busd](https://coinmarketcap.com/currencies/binance-usd/), [usdt](https://coinmarketcap.com/currencies/tether/), [usdc](https://coinmarketcap.com/currencies/usd-coin/)), чтобы можно было быстро импортировать их в Metamask в случае надобности:
+![](_attachments/6e85f173051c8905b0afbd8b72f4d5c7.png)
 
 ### Расширения
+![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
 Устанавливаем нужные расширения:
  - [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
  - [Phantom wallet](https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa)
@@ -80,28 +89,24 @@
  - [DuckDuckGo](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
  - [Google Переводчик](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Антикапча](https://anti-captcha.com/clients/settings/apisetup) 
--> [Гайда по установки расширения](../Инструменты/Расширение%20для%20браузера%20AntiCaptcha.md)
+-> [Гайд по установке расширения](../Инструменты/Расширение%20для%20браузера%20AntiCaptcha.md)
 - VPN
 
-![](_attachments/5df94295a8fab8dbd8587d22e3bcaa3d.png)
-
 ### Стартовые вкладки
-1. Настройки профиля, чтобы в первую очередь указать желаемое имя пользователя:
-![](_attachments/78c2207c7dd06f8048808e17430a9cd1.png)
+Открываем следующие вкладки заранее, чтобы нам не приходилось открывать их при запуске каждого нового профиля-клона:
+1. [Настройки профиля](chrome://settings/manageProfile), чтобы в первую очередь указать желаемое имя пользователя.
 Лучше всего указывать имя пользователя, совпадающее с именем профиля в списке профилей антидетект-браузера:
 ![](_attachments/7709a3dd061cb9a5ef2469710bcf8d25.png)
 
-2. Используемая для входа в Discord почта ([Rambler](https://mail.rambler.ru/)).
-3. [Discord](https://discord.com/login).
-4. [Twitter](https://twitter.com/).
+2. Используемая для входа в Discord почта ([Рамблер](https://mail.rambler.ru/), [Gmail](https://mail.google.com/mail/u/0/#inbox)).
+3. [Discord](https://discord.com/login)
+4. [Twitter](https://twitter.com/)
 5. Меню импорта мнемонической фразы в Metamask:
-![](_attachments/Pasted%20image%2020220308155939.png)
+![](_attachments/f4a8185b1cf723d9863d004a026c43b0.png)
 
 5. [Chainlist](https://chainlist.org/), чтобы сразу добавить желаемые сети (Polygon, Binance Smart Chain) в Metamask.
-6. Вкладки [Coinmarketcap](https://coinmarketcap.com/) с частоиспользуемыми токенами ([busd](https://coinmarketcap.com/currencies/binance-usd/), [usdt](https://coinmarketcap.com/currencies/tether/), [usdc](https://coinmarketcap.com/currencies/usd-coin/)), чтобы заранее импортировать их в Metamask:
-![](_attachments/6e85f173051c8905b0afbd8b72f4d5c7.png)
-7. Меню импорта мнемонической фразы в Phantom Wallet.
-8. Меню импорта мнемонической фразы в [Near Wallet](https://wallet.near.org/recover-seed-phrase).
+6. Меню импорта мнемонической фразы в Phantom Wallet.
+7. Меню импорта мнемонической фразы в [Near Wallet](https://wallet.near.org/recover-seed-phrase).
 
 
 
