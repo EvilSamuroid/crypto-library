@@ -61,7 +61,7 @@
 Также можно [поставить темную тему браузера](https://chrome.google.com/webstore/category/themes).
 
 ### Закладки
-![](_attachments/73eb6502b141ecc46d6df8982fdaf71c.png)
+![](_attachments/2e8ad4e79a07d655b4b302783bb2caf5.png)
 Закрепляем нужные закладки:
 - [Near Wallet](https://wallet.near.org/)
 - [Chainlist](https://chainlist.org/)
